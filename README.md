@@ -376,11 +376,4 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost
 
 
 
-## Project Structure
-
-
-Wine Quality Prediction/
-│
-├── winequalityN.csv          # Raw dataset
-└── wine_prediction.ipynb     # Jupyter notebook with full pipeline
 
